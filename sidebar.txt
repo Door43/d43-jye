@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jye:home|Door43 (jye)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jye|d43-jye repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jye/archive/master.zip|d43-jye.zip]]
+
+**Recent Changes**
+{{changes>ns = jye}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jye|Ethnologue data]]
+
